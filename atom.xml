@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://longyunzhang.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-10T11:37:48.456Z</updated>
+    <updated>2020-05-10T11:39:08.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://longyunzhang.github.io"/>
     <link rel="self" href="https://longyunzhang.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
-        <id>https://longyunzhang.github.io/post/first_page/</id>
-        <link href="https://longyunzhang.github.io/post/first_page/">
+        <id>https://longyunzhang.github.io/post/hello/</id>
+        <link href="https://longyunzhang.github.io/post/hello/">
         </link>
         <updated>2020-05-10T11:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>👏  欢迎来到我的博客 ！<br>
