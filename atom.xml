@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://longyunzhang.github.io</id>
     <title>This is Larry&apos;s Blog</title>
-    <updated>2020-05-10T12:04:48.977Z</updated>
+    <updated>2020-05-10T12:22:45.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://longyunzhang.github.io"/>
     <link rel="self" href="https://longyunzhang.github.io/atom.xml"/>
@@ -20,15 +20,17 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2020-05-10 我的第一个blog]]></title>
+        <title type="html"><![CDATA[我的第一篇blog]]></title>
         <id>https://longyunzhang.github.io/post/2020-05-10-wo-de-di-yi-ge-blog/</id>
         <link href="https://longyunzhang.github.io/post/2020-05-10-wo-de-di-yi-ge-blog/">
         </link>
         <updated>2020-05-10T11:49:37.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>我的第一个blog</strong></p>
-<p>之前一直想搞一个自己的github pages，由于懒惰等各种原因，一直没有做。很简单的一件事，考验的是一个人的动手能力，感谢伟大的互联网，现在几乎任何东西只要想做，网上都有教程。</p>
-<p>然后就跟着教程一步步做，后来又发现了Gridea这个工具，于是今天就有了我的第一个blog...</p>
+        <content type="html"><![CDATA[<p>之前一直想搞一个自己的github pages，由于懒惰等各种原因，一直没有做。</p>
+<p>下午闲来无事，看到浏览器至少半个月之前打开的一篇文章还没有看完，是湾区日报的作者写的<a href="https://wanqu.co/b/7/%E6%B9%BE%E5%8C%BA%E6%97%A5%E6%8A%A5%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E4%BD%9C%E7%9A%84/">湾区日报是如何运作的？</a>这篇文章，感觉挺有趣的，一个人的side project，这才是ITer应该有的样子。</p>
+<p>于是就有了今天把基于github pages的个人blog搭建起来的想法并立即行动。</p>
+<p>接着就从网上找了教程，按照教程step by step生成了一个极简单的blog页面， 后来又发现了Gridea这个工具，然后今天就有了我的第一个blog...</p>
 <p>身为一个programmer，深感惭愧...</p>
+<p>最后，再次感谢伟大的互联网，对于很多领域，即使是一个小白，只要想学习这个领域的知识，借助于网络，很快也都可以入门。</p>
 ]]></content>
     </entry>
 </feed>
