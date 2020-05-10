@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://longyunzhang.github.io</id>
     <title>This is Larry&apos;s Blog</title>
-    <updated>2020-05-10T12:50:34.126Z</updated>
+    <updated>2020-05-10T13:34:28.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://longyunzhang.github.io"/>
     <link rel="self" href="https://longyunzhang.github.io/atom.xml"/>
@@ -19,7 +19,7 @@
         <content type="html"><![CDATA[<p>之前一直想搞一个属于自己的blog，由于懒惰等各种原因，一直没有做。</p>
 <p>下午闲来无事，发现浏览器至少半个月之前打开的一篇文章还没有看完🤣，是湾区日报的作者写的<a href="https://wanqu.co/b/7/%E6%B9%BE%E5%8C%BA%E6%97%A5%E6%8A%A5%E6%98%AF%E5%A6%82%E4%BD%95%E8%BF%90%E4%BD%9C%E7%9A%84/">《湾区日报是如何运作的？》</a>，于是就接着把文章给看完了，从中感触、收获颇多（这个可以以后详细再讲），觉得作者那样的人才是ITer应该有的样子，也更加坚定了我“每一个人一生中都应该有属于自己project”的想法。</p>
 <p>然后，我就拾起了把基于github pages的个人blog搭建起来的想法并立即行动。</p>
-<p>首先，从网上找了相关教程，按照教程step by step很快就生成了一个极简单（也极丑）的blog页面。接着搜索如何美化页面，无意间发现了Gridea，它不仅提供了简洁大方的模板（符合我的审美），而且还有可视化的编辑工具（支持Markdown语法），于是我就按照Gridea的教程再次搭建了blog。既然有了blog，那就写一篇文章吧，于是就有了这篇文章[《我的第一篇blog》]。</p>
+<p>首先，从网上找了相关教程，按照教程step by step很快就生成了一个极简单（也极丑）的blog页面。接着搜索如何美化页面，无意间发现了Gridea，它不仅提供了简洁大方的模板（符合我的审美），而且还有可视化的编辑工具（支持Markdown语法），于是我就按照Gridea的教程再次搭建了blog。既然有了blog，那就写一篇文章吧，于是就有了这篇文章<a href="">《我的第一篇blog》</a>。</p>
 <p>身为一个programmer，这么多年才有拥有自己的blog，为此深感羞愧......</p>
 <p>最后，再次感谢伟大的互联网，对于很多领域，即使是一个小白，只要想学习某个领域的知识，借助于网络都可以很快入门。这考验的是一个人的好奇心、搜索能力、动手能力。当然，最最重要的还是行动力！</p>
 ]]></content>
