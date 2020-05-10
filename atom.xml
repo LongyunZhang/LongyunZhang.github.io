@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://longyunzhang.github.io/blog/</id>
+    <id>https://longyunzhang.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-10T11:19:23.777Z</updated>
+    <updated>2020-05-10T11:36:50.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://longyunzhang.github.io/blog/"/>
-    <link rel="self" href="https://longyunzhang.github.io/blog/atom.xml"/>
+    <link rel="alternate" href="https://longyunzhang.github.io"/>
+    <link rel="self" href="https://longyunzhang.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://longyunzhang.github.io/blog/images/avatar.png</logo>
-    <icon>https://longyunzhang.github.io/blog/favicon.ico</icon>
+    <logo>https://longyunzhang.github.io/images/avatar.png</logo>
+    <icon>https://longyunzhang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
-        <id>https://longyunzhang.github.io/blog/post/first_page/</id>
-        <link href="https://longyunzhang.github.io/blog/post/first_page/">
+        <id>https://longyunzhang.github.io/post/first_page/</id>
+        <link href="https://longyunzhang.github.io/post/first_page/">
         </link>
         <updated>2020-05-10T11:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>👏  欢迎来到我的博客 ！<br>
