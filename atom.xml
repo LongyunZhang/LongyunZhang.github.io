@@ -2,15 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://longyunzhang.github.io</id>
     <title>This is Larry&apos;s Blog</title>
-    <updated>2020-05-10T12:00:50.893Z</updated>
+    <updated>2020-05-10T12:04:34.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://longyunzhang.github.io"/>
     <link rel="self" href="https://longyunzhang.github.io/atom.xml"/>
-    <subtitle>一枚程序员记录自己故事的地方...
-如果你偶然发现了这个地方，又恰巧想认识一下我，可以加wx: SeizeTheDay_zhly</subtitle>
+    <subtitle>一个程序员记录自己故事的地方...</subtitle>
     <logo>https://longyunzhang.github.io/images/avatar.png</logo>
     <icon>https://longyunzhang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, This is Larry&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://longyunzhang.github.io/post/test/</id>
+        <link href="https://longyunzhang.github.io/post/test/">
+        </link>
+        <updated>2020-05-10T12:04:13.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-05-10 我的第一个blog]]></title>
         <id>https://longyunzhang.github.io/post/2020-05-10-wo-de-di-yi-ge-blog/</id>
